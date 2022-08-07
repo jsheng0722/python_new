@@ -30,7 +30,7 @@ if __name__ == "__main__":
     # UA
     headers = {
         'Accept-Encoding': 'gzip, deflate, br',  # 使用gzip压缩传输数据让访问更快
-        'Cookie': 'uuid=fbfb1681299d40689060.1659010329.1.0.0; _lxsdk_cuid=18244b8a8c951-05dfc91af5f8df-653b5753-144000-18244b8a8cac8; ci=10; mtcdn=K; lt=hdoSDIZ0uR5MDIftVDPb8VaRDb0AAAAA_xIAAHJBBUjaXJ6zMIS8Lpvz46sFdTED89tStJ47n_iuZMdrlgWwZVfzmDAh1q1HKbz9PQ; u=1792825329; n=avO521358539; token2=hdoSDIZ0uR5MDIftVDPb8VaRDb0AAAAA_xIAAHJBBUjaXJ6zMIS8Lpvz46sFdTED89tStJ47n_iuZMdrlgWwZVfzmDAh1q1HKbz9PQ; unc=avO521358539; _lx_utm=utm_source%3DBaidu%26utm_medium%3Dorganic; firstTime=1659021661212; _lxsdk_s=18245585830-e64-413-dd3%7C%7C14',
+        'Cookie': '',# 涉及个人信息，已删除
         'Referer': 'https://sh.meituan.com/',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
